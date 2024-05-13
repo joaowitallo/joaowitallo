@@ -1,8 +1,6 @@
-- Olá, meu nome é João Witallo tenho 20 anos, estudante de Analise e Desenvolvimento de Sistemas na UNDB,São Luis.Tenho conhecimentos em Analise de dados em Power BI, através de um
-- treinamento na MAP treinamentos e Desenvolvimento.
-- Estou interessado em aprofundar meus conhecimentos e desenvolver meu aprendisado para colaborar com sua empresa e crescermos juntos, busco uma oportunidade.
-- Atualmente estou desenvolvendo minha aprendizagem em Analise em BI, com uma evolução rápida e continua. Também no desenvolvimento Front End.
-- Estou buscando uma oportunidade na área de BI, onde vejo possibilidade de evolução rápida.
+- Olá, meu nome é João Witallo tenho 21 anos, estudante de Analise e Desenvolvimento de Sistemas na UNDB(Periodo 2)
+- Conhecimentos:RPA, Python(Pandas,Pyatogui,Pywin32).
+- Atualmente trabalho com RPA na empresa DLN Adivocacia
 - Telefone:98991752871
 - Email:witalloj822@gmail.com
 
