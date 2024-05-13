@@ -1,6 +1,6 @@
-- Olá, meu nome é João Witallo tenho 21 anos, estudante de Analise e Desenvolvimento de Sistemas na UNDB(Periodo 2)
-- Conhecimentos:RPA, Python(Pandas,Pyatogui,Pywin32).
-- Atualmente trabalho com RPA na empresa DLN Adivocacia
+- Olá, meu nome é João Witallo tenho 21 anos, estudante de Analise e Desenvolvimento de Sistemas na UNDB(Periodo 2).
+- Conhecimentos:RPA, Python(Pandas,Pyatogui,Pywin32); Noções em Dev Web(HTML,CSS).
+- Atualmente trabalho com RPA na empresa DLN Adivocacia.
 - Telefone:98991752871
 - Email:witalloj822@gmail.com
 
