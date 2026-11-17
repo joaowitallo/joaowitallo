@@ -93,7 +93,7 @@ Busco evolução contínua em SQL, Python, engenharia de dados e análise avanç
 ## 📫 Contato
 
 - **GitHub:** [joaowitallo](https://github.com/joaowitallo)
-- **LinkedIn:** [Adicionar link do LinkedIn]
-- **E-mail:** [Adicionar e-mail profissional]
+- **LinkedIn:** [www.linkedin.com/in/joão-witallo-cruz-conceição]
+- **E-mail:** [witalloj822@gmail.com]
 
 📍 Brasil
