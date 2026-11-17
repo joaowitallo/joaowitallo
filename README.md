@@ -1,4 +1,5 @@
 # João Witallo
+
 ### Analista de Dados | Business Intelligence
 
 Profissional de Dados e Business Intelligence, com experiência em desenvolvimento de dashboards, análise de indicadores de desempenho (KPIs), automação de processos e suporte à tomada de decisão.
@@ -18,11 +19,14 @@ Experiência prática na coleta, tratamento, modelagem e análise de dados, util
 - Python
 - Pandas
 - NumPy
+- Matplotlib
 - Jupyter Notebook
 
 **Banco de Dados**
 - SQL
 - SQL Server
+- SQLAlchemy
+- PyODBC
 
 **Ferramentas de Análise**
 - Microsoft Excel
@@ -44,35 +48,35 @@ Experiência prática na coleta, tratamento, modelagem e análise de dados, util
 
 ## 🚀 Projetos em Destaque
 
-### 1. Automação de Dados: Excel para SQL Server
+### 1. Pipeline ERP → SQL Server
 
-Pipeline desenvolvido em Python para automatizar a leitura, o tratamento e a transferência de dados de arquivos Excel para o SQL Server.
+Automação desenvolvida em Python para leitura de arquivos Excel exportados de um ERP, tratamento e padronização dos dados e carga incremental no SQL Server, permitindo posterior utilização das informações no Power BI.
 
-**Tecnologias:** Python, Pandas e SQL Server.
+**Tecnologias:** Python, Pandas, SQLAlchemy, PyODBC, OpenPyXL e SQL Server.
 
 [Visualizar projeto](https://github.com/joaowitallo/Automaco-dados-Exel-para-SQL-Server-via-Python)
 
-### 2. Relatório de Vendas Diárias
+### 2. Relatório de Acompanhamento Diário de Vendas
 
-Dashboard desenvolvido no Power BI para acompanhamento de vendas e análise de indicadores comerciais.
+Dashboard desenvolvido no Power BI para monitoramento dos principais indicadores de desempenho, identificação dos produtos mais e menos vendidos e análise do comportamento das vendas por horário.
 
-**Tecnologias:** Power BI, DAX e Power Query.
+**Tecnologias:** Power BI e DAX.
 
 [Visualizar projeto](https://github.com/joaowitallo/Relatorio-Vendas_Diarias)
 
-### 3. Comparativo de Semanas
+### 3. Comparativo de Resultados Semanais
 
-Dashboard para comparação de resultados semanais, acompanhamento de indicadores e análise de desempenho comercial.
+Projeto desenvolvido no Power BI para comparar o desempenho da primeira semana de agosto com a primeira semana de setembro, identificando tendências e apoiando a análise dos resultados.
 
-**Tecnologias:** Power BI e DAX.
+**Tecnologias:** Power BI.
 
 [Visualizar projeto](https://github.com/joaowitallo/Comparativo-de-Semanas)
 
 ### 4. Análise de Vendas com Python
 
-Projeto de análise exploratória de dados comerciais, utilizando Python para tratamento, organização e análise de informações.
+Projeto de análise exploratória de dados de vendas, envolvendo importação da base, tratamento de valores nulos, correção de datas, padronização de informações, criação de métricas e visualização dos dados.
 
-**Tecnologias:** Python, Pandas e Jupyter Notebook.
+**Tecnologias:** Python, Pandas, Matplotlib e Jupyter Notebook.
 
 [Visualizar projeto](https://github.com/joaowitallo/analise-de-vendas-phyton)
 
@@ -88,7 +92,7 @@ Busco evolução contínua em SQL, Python, engenharia de dados e análise avanç
 
 ## 📫 Contato
 
-- **GitHub:** https://github.com/joaowitallo
+- **GitHub:** [joaowitallo](https://github.com/joaowitallo)
 - **LinkedIn:** [Adicionar link do LinkedIn]
 - **E-mail:** [Adicionar e-mail profissional]
 
